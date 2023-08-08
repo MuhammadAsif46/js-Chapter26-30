@@ -48,3 +48,19 @@
 // }
 // document.write("Random dice value : " + dice + "<br>");
 // document.write("Random dice value : " + dice1);
+
+
+//*********Question 5 *********//
+
+// var coin = Math.floor(Math.random() * 3);
+// var coin1 = Math.floor(Math.random() * 3);
+// var one = 1;
+// var two = 2;
+// if (coin === 0) {
+//   coin = one;
+// }
+// if (coin1 === 0) {
+//   coin1 = two;
+// }
+// document.write(coin + "<br>"+ "Random coin value : Heads" +  "<br>");
+// document.write(coin1 + "<br>" + "Random coin value : Tails " );
