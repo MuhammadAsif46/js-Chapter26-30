@@ -9,3 +9,11 @@
 // document.write("Round : " +  num1 + "<br>");
 // document.write("Floor : " +  num2 + "<br>");
 // document.write("Ceil : " +  num3 + "<br>");
+
+
+//*********Question 2 *********//
+
+// var neg = +prompt("Enter nagetive a number.");
+// var neg1 = Math.round(neg);
+// var neg2 = Math.floor(neg);
+// var neg3 = Math.ceil(neg);
