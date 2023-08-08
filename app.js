@@ -33,3 +33,18 @@
 // var num2 = Math.abs(numN);
 //  document.write("The absolute value of " + num + " is " + num1 + "<br>");
 //  document.write("The absolute value of " + numN + " is " + num2);
+
+
+//*********Question 4 *********//
+
+// var dice = Math.floor(Math.random() * 6);
+// var dice1 = Math.floor(Math.random() * 6);
+// var one = 1;
+// if (dice === 0) {
+//   dice = one;
+// }
+// if (dice1 === 0) {
+//   dice1 = one;
+// }
+// document.write("Random dice value : " + dice + "<br>");
+// document.write("Random dice value : " + dice1);
