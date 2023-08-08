@@ -64,3 +64,20 @@
 // }
 // document.write(coin + "<br>"+ "Random coin value : Heads" +  "<br>");
 // document.write(coin1 + "<br>" + "Random coin value : Tails " );
+
+
+
+//*********Question 6 *********//
+
+// var numRandom = Math.floor(Math.random()*100);
+// var numRandom1 =  Math.floor(Math.random()*100);
+// var numRandom2 =  Math.floor(Math.random()*100);
+// var ten = 10;
+// if (numRandom === 0 || numRandom1 === 0 || numRandom2 === 0) {
+//   numRandom = ten;
+//   numRandom1 = ten;
+//   numRandom2 = ten;
+// }
+// document.write("Random number between 1 to 100 : " + numRandom + "<br>");
+// document.write("Random number between 1 to 100 : " + numRandom1 + "<br>");
+// document.write("Random number between 1 to 100 : " + numRandom2);
