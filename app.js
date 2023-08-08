@@ -17,3 +17,8 @@
 // var neg1 = Math.round(neg);
 // var neg2 = Math.floor(neg);
 // var neg3 = Math.ceil(neg);
+
+// document.write("Number : " +  neg + "<br>");
+// document.write("Round : " +  neg1 + "<br>");
+// document.write("Floor : " +  neg2 + "<br>");
+// document.write("Ceil : " +  neg3 + "<br>");
