@@ -81,3 +81,10 @@
 // document.write("Random number between 1 to 100 : " + numRandom + "<br>");
 // document.write("Random number between 1 to 100 : " + numRandom1 + "<br>");
 // document.write("Random number between 1 to 100 : " + numRandom2);
+
+
+//*********Question 7 *********//
+
+// var weight = prompt("Enter your weight in kilograms.","50kgs");
+
+// document.write("The weight of user is : " + weight + " Kilograms.");
