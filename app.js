@@ -88,3 +88,18 @@
 // var weight = prompt("Enter your weight in kilograms.","50kgs");
 
 // document.write("The weight of user is : " + weight + " Kilograms.");
+
+
+
+//*********Question 8 *********//
+
+// var num = Math.floor(Math.random()*10);
+// var guess = +prompt("Guess a number 1 to 10.");
+
+// if (num === guess){
+//       alert ("YOU WIN : " + num);
+// }else if (num + 1 === guess || num -1 === guess){
+//       alert ("YOU ARE SO CLOSE : " + num);
+// }else {
+//       alert ("Try again! : " + num);
+// }
